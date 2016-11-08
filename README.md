@@ -1,4 +1,4 @@
-# AM Midterm Checkin
+# PM Midterm Checkin
 
  1. Fork this repository (button in top-right corner).
  1. Just click the fork button and that's it -- no need to clone.
